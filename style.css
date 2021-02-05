@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  color: #333;
+  line-height: 1.5;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  background: linear-gradient(to top left, #ff7f50, #ffc961);
+}
+h1{
+  text-transform: uppercase;
+}
+
+div{
+  position: absolute;
+  margin-top: 350px;
+  margin-left: -50px;
+  font-weight: bold;
+}
+button{
+  background-color: #34c924;
+  width: 100px;
+  border-radius: 10px;
+  color: #fff;
+}
